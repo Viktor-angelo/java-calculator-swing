@@ -1,4 +1,4 @@
-Java Calculator – Swing
+ #Java Calculator – Swing
 
 This project is a simple calculator application developed in Java using the Swing library. It was created as a beginner-level project with the goal of practicing Java fundamentals, object-oriented programming, and basic graphical user interface concepts.
 
