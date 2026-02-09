@@ -1,11 +1,42 @@
 Java Calculator – Swing
 
-This project is a simple calculator application developed in Java using the Swing library. It was created as a beginner project to practice Java fundamentals, object-oriented programming, and basic graphical user interface concepts.
+A simple Java Swing application that performs basic mathematical calculations using an interactive graphical interface.
 
-The application allows the user to enter a number and perform several mathematical operations, including calculating the remainder when divided by two, raising the number to the power of three, calculating the cube root, the square root, and the absolute value. The results are displayed on the screen after the calculation.
+Java Calculator
 
-The project uses a separate service class to handle the calculation logic, keeping the code more organized and easier to understand. The graphical interface and user interactions are managed in the main window class.
+Java Calculator is a desktop application developed in Java using Swing that allows users to enter a numeric value and calculate different mathematical results in a clear and interactive way. This project was created with a focus on learning programming logic, object-oriented programming, and building graphical user interfaces using Java Swing.
 
-This project was developed using NetBeans and is intended for learning purposes only.
+Features
+
+Input of a numeric value using a spinner
+
+Calculation of the remainder when divided by 2
+
+Calculation of the cube of the number
+
+Calculation of the cube root
+
+Calculation of the square root
+
+Calculation of the absolute value
+
+Results displayed after clicking the calculate button
+
+Simple and intuitive interface
+
+Technologies Used
+
+Java
+
+Java Swing (JFrame)
+
+NetBeans IDE
+
+How to Run the Project
+Clone the repository:
+git clone https://github.com/Viktor-angelo/java-calculator-swing.git
+
+Open the project in a Java-compatible IDE (NetBeans, IntelliJ IDEA, or Eclipse)
+Run the main class (TelaCalc)
 
 Author: Viktor Angelo
